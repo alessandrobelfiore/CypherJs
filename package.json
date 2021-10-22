@@ -1,0 +1,22 @@
+{
+  "name": "cypher",
+  "version": "2.0.0",
+  "description": "HALP!!!",
+  "main": "app.js",
+  "scripts": {
+    "serve": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "halp"
+  ],
+  "author": "Alessandro Belfiore",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.4",
+    "express-ws": "^4.0.0"
+  },
+  "devDependencies": {
+    "eslint": "^5.9.0"
+  }
+}
